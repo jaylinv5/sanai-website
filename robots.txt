@@ -1,0 +1,8 @@
+# robots.txt for 三爱健康
+# https://cool-resonance-9d1d.jay-f4b.workers.dev/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cool-resonance-9d1d.jay-f4b.workers.dev/sitemap.xml
